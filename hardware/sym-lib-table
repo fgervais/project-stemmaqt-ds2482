@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name DS2482S-100_)(type Legacy)(uri ${KIPRJMOD}/kicad-library/DS2482S-100/DS2482S-100_.lib)(options "")(descr ""))
+  (lib (name SM04B-SRSS-TB_LF__SN_)(type Legacy)(uri "${KIPRJMOD}/kicad-library/SM04B-SRSS-TB(LF)(SN)/SM04B-SRSS-TB_LF__SN_.lib")(options "")(descr ""))
 )
