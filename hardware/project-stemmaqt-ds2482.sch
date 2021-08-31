@@ -1,0 +1,30 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L DS2482S-100_:DS2482S-100+ U?
+U 1 1 612ED155
+P 4800 3100
+F 0 "U?" H 4800 3667 50  0000 C CNN
+F 1 "DS2482S-100+" H 4800 3576 50  0000 C CNN
+F 2 "SOIC127P600X175-8N" H 4800 3100 50  0001 L BNN
+F 3 "" H 4800 3100 50  0001 L BNN
+F 4 "Maxim Integrated" H 4800 3100 50  0001 L BNN "MANUFACTURER"
+F 5 "" H 4800 3100 50  0001 L BNN "PARTREV"
+F 6 "IPC7351B" H 4800 3100 50  0001 L BNN "STANDARD"
+	1    4800 3100
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

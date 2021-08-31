@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name DS2482S-100_)(type Legacy)(uri ${KIPRJMOD}/kicad-library/DS2482S-100/DS2482S-100_.lib)(options "")(descr ""))
+)
