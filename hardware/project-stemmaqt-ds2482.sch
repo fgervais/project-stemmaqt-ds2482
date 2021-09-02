@@ -84,7 +84,7 @@ L Jumper:SolderJumper_2_Open JP1
 U 1 1 612FA65D
 P 1000 3250
 F 0 "JP1" V 1000 3318 50  0000 L CNN
-F 1 "SolderJumper_2_Open" V 1045 3318 50  0001 L CNN
+F 1 "AD0" V 1045 3318 50  0001 L CNN
 F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 1000 3250 50  0001 C CNN
 F 3 "~" H 1000 3250 50  0001 C CNN
 	1    1000 3250
@@ -95,7 +95,7 @@ L Jumper:SolderJumper_2_Open JP2
 U 1 1 612FBECB
 P 1300 3250
 F 0 "JP2" V 1300 3318 50  0000 L CNN
-F 1 "SolderJumper_2_Open" V 1345 3318 50  0001 L CNN
+F 1 "AD1" V 1345 3318 50  0001 L CNN
 F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 1300 3250 50  0001 C CNN
 F 3 "~" H 1300 3250 50  0001 C CNN
 	1    1300 3250
@@ -235,7 +235,7 @@ L Jumper:SolderJumper_2_Open JP3
 U 1 1 6132B4E0
 P 5300 3850
 F 0 "JP3" V 5300 3918 50  0000 L CNN
-F 1 "SolderJumper_2_Open" V 5345 3918 50  0001 L CNN
+F 1 "SPU" V 5345 3918 50  0001 L CNN
 F 2 "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" H 5300 3850 50  0001 C CNN
 F 3 "~" H 5300 3850 50  0001 C CNN
 	1    5300 3850
@@ -427,7 +427,7 @@ U 1 1 613FC1ED
 P 9200 1150
 F 0 "H4" H 9300 1153 50  0000 L CNN
 F 1 "MountingHole_Pad" H 9300 1108 50  0001 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 9200 1150 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad" H 9200 1150 50  0001 C CNN
 F 3 "~" H 9200 1150 50  0001 C CNN
 	1    9200 1150
 	1    0    0    -1  
@@ -438,7 +438,7 @@ U 1 1 613FBE9D
 P 8900 1150
 F 0 "H3" H 9000 1153 50  0000 L CNN
 F 1 "MountingHole_Pad" H 9000 1108 50  0001 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 8900 1150 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad" H 8900 1150 50  0001 C CNN
 F 3 "~" H 8900 1150 50  0001 C CNN
 	1    8900 1150
 	1    0    0    -1  
@@ -449,7 +449,7 @@ U 1 1 613FBBE3
 P 8600 1150
 F 0 "H2" H 8700 1153 50  0000 L CNN
 F 1 "MountingHole_Pad" H 8700 1108 50  0001 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 8600 1150 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad" H 8600 1150 50  0001 C CNN
 F 3 "~" H 8600 1150 50  0001 C CNN
 	1    8600 1150
 	1    0    0    -1  
@@ -460,7 +460,7 @@ U 1 1 613F9A62
 P 8300 1150
 F 0 "H1" H 8400 1153 50  0000 L CNN
 F 1 "MountingHole_Pad" H 8400 1108 50  0001 L CNN
-F 2 "MountingHole:MountingHole_2.2mm_M2_Pad" H 8300 1150 50  0001 C CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad" H 8300 1150 50  0001 C CNN
 F 3 "~" H 8300 1150 50  0001 C CNN
 	1    8300 1150
 	1    0    0    -1  
