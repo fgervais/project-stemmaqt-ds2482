@@ -465,29 +465,6 @@ F 3 "~" H 8300 1150 50  0001 C CNN
 	1    8300 1150
 	1    0    0    -1  
 $EndComp
-Text Label 7050 1050 0    50   ~ 0
-VCC
-Text Label 7050 1150 0    50   ~ 0
-1WIRE
-Text Label 7050 1250 0    50   ~ 0
-GND
-Wire Wire Line
-	7300 1250 7050 1250
-Wire Wire Line
-	7300 1150 7050 1150
-Wire Wire Line
-	7300 1050 7050 1050
-$Comp
-L Connector:Conn_01x03_Male J4
-U 1 1 613EDDA6
-P 6850 1150
-F 0 "J4" H 6900 1350 50  0000 C CNN
-F 1 "Conn_01x03_Male" H 6958 1340 50  0001 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 6850 1150 50  0001 C CNN
-F 3 "~" H 6850 1150 50  0001 C CNN
-	1    6850 1150
-	1    0    0    -1  
-$EndComp
 Text Label 6400 1050 0    50   ~ 0
 VCC
 Text Label 6400 1150 0    50   ~ 0
